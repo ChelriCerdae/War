@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Kalam', cursive;
+  
+
+    color: #0dad88;
+    font-size:225px;
+    text-align:center ;
+}
+
+h1 span {
+    vertical-align: top;
+    font-size:150px;
+    display:inline;
+    color: crimson;
+}
+
+span {
+    display:block;
+    color:crimson;
+    font-style: oblique; 
+    font-size:200px;
+}
+img {
+    
+    height:500px;
+    border:20px solid crimson;
+    border-radius:300px;
+}
+body{
+    font-family: 'Kalam', cursive;
+    background-attachment:fixed; 
+    background-size:cover;
+    background-position:center; 
+    background-image:url("http://static.tumblr.com/02fbd01d21eaf5667277ccf7214725d1/1yuzm5f/TvTo7rljy/tumblr_static_46fvedoi9rswgkg0k8s4k88kw.png");
+    margin:0;
+     text-align:center ;
+}
